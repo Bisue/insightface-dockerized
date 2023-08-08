@@ -1,6 +1,6 @@
 # Insightface Dockerized
 
-> Simple docker environment for `deepinsight/insightface`
+> Simple docker environment for [`deepinsight/insightface`](https://github.com/deepinsight/insightface)
 
 ## Usage
 
